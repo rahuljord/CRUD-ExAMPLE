@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "testing documentation",
+      "id": 2
+    },
+    {
+      "title": "i created this stream sabvdgavgdvas",
+      "description": "new desc",
+      "id": 3
+    },
+    {
+      "title": "Me Streaming",
+      "description": "watch me >>>>>>>>>>>>>>>",
+      "id": 5
+    },
+    {
+      "title": "rahul",
+      "description": "adupa",
+      "userId": "107641172953931257784",
+      "id": 6
+    },
+    {
+      "title": "qaq",
+      "description": "aqaq",
+      "userId": null,
+      "id": 12
+    },
+    {
+      "title": "1111111111111111111",
+      "description": "1111111111111111111111",
+      "userId": null,
+      "id": 13
+    }
+  ]
+}
